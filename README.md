@@ -1,4 +1,4 @@
-# Brackets-better-coffee
+# Brackets BetterCoffee
 
 ## Features
 
