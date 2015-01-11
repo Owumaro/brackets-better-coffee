@@ -1,0 +1,12 @@
+{
+    "name": "owumaro.better-coffee",
+    "title": "Better Coffee",
+    "description": "Useful features for CoffeeScript developers.",
+    "homepage": "https://github.com/Owumaro/brackets-better-coffee",
+    "version": "1.0.0",
+    "author": "Antoine Matyja <antoinematyja@free/fr> (http://github.com/Owumaro)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.44.0"
+    }
+}

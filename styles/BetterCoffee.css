@@ -1,0 +1,9 @@
+#better-coffee-icon {
+  background-image: url(icons/toolbar-icon.png);
+  background-size: contain;
+  background-position: center;
+}
+
+.js-to-hide {
+  display: none !important;
+}
